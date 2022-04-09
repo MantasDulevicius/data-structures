@@ -1,0 +1,11 @@
+{
+  "name": "custom-data-structures",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MantasDulevicius/data-structures.git",
+  "author": "Mantas <fumis887@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
