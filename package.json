@@ -5,7 +5,10 @@
   "repository": "https://github.com/MantasDulevicius/data-structures.git",
   "author": "Mantas <fumis887@gmail.com>",
   "license": "MIT",
-  "dependencies": {
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
     "jest": "^27.5.1"
   }
 }

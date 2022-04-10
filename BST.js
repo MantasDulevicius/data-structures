@@ -71,9 +71,9 @@ class BST {
     return node
   }
 
-  findMindNode(node) {
+  findMinNode(node) {
     if (node.left === null) return node
-    else return this.findMindNode(node.left)
+    else return this.findMinNode(node.left)
   }
 
   getRroot() {
@@ -110,3 +110,5 @@ class BST {
     }
   }
 }
+
+module.exports = BST
